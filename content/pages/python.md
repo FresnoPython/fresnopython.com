@@ -22,7 +22,7 @@ Python is a language that is easy for beginners, has a vast ecosystem of third-p
 
 Whether you're building a simple blog or a full-blown web application, Python is a great choice for your back-end. There are a number of frameworks available that will help make building your app easy a fast.
 
-* [Django](https://www.djangoproject.com/) is the most popular Python web framework. Django makes it easy to build better web apps, more quickly, with less code. There's also a thriving ecosystem of third-party Open Source Django apps.
+* [Django](https://www.djangoproject.com/) is the most popular Python web framework. Django makes it easy to build better web apps, more quickly, with less code. There's also a thriving ecosystem of third-party Open Source Django apps. We recommend the [DjangoGirls tutorial](https://tutorial.djangogirls.org/en/) for learning Django.
 * [Flask](http://flask.pocoo.org/) is a microframework that doesn't require lots of tools or libraries, and tries to get out of your way.
 * [Pyramid](https://trypyramid.com/) fits somewhere between Django and Flask. It allows you to start small and finish big, growing with you to fit your applications needs.
 
