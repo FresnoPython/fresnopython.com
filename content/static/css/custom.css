@@ -1,0 +1,83 @@
+/*
+ * Global
+*/
+
+body {
+    line-height: 1.5em;
+}
+
+h1, h2, h3, h4 {
+    font-weight: 600;
+}
+
+aside {
+    background-color: #3A6687;
+    background-image: linear-gradient(rgba(0, 0, 36, .5), rgba(0, 0, 0, 0) 200px);
+}
+
+aside div img {
+    border-radius: 0px;
+    max-width: 200px;
+}
+
+aside div p {
+    font-size: 1.1em;
+}
+
+aside nav .list a {
+    padding: 5px 7px;
+}
+
+aside nav .list a:hover {
+    background-color: rgb(0, 0, 36, .2);
+    border-radius: 3px;
+}
+
+main article li {
+    margin-block-end: .5em;
+}
+
+main article ul {
+    margin-block-end: .5em;
+}
+
+/*
+ * Index
+*/
+
+.meetup-widget {
+    float: right;
+    margin-left: 20px;
+}
+
+ul.social a.sc-meetup {
+    background-color: #F34563;
+}
+
+ul.social a.sc-slack {
+    background-color: #7BD2B5;
+}
+
+ul.sponsors {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+ul.sponsors li {
+    display: inline-block;
+    margin: 10px 10px;
+}
+
+ul.sponsors img {
+    max-width: 200px;
+    vertical-align: middle;
+}
+
+/*
+ * What is Python?
+*/
+
+.why-python {
+    margin: 0px auto;
+    max-width: 600px;
+}
