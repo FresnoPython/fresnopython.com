@@ -2,7 +2,7 @@ title: Welcome to the Fresno Python User Group!
 url:
 save_as: index.html
 
-<iframe width="225" height="450" src="http://meetu.ps/3jvVJl" frameborder="0" class="meetup-widget"></iframe>
+<iframe width="225" height="450" src="https://meetu.ps/3jvVJl" frameborder="0" class="meetup-widget"></iframe>
 
 Fresno.py's mission is to foster a welcoming and diverse community of Python developers and promote the use of the Python programming language in the Central Valley. People of all skill levels are welcome; if you are interested in Python, we'd love to have you join us!
 

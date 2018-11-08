@@ -10,8 +10,11 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'http://fresnopython.com'
+SITEURL = 'https://fresnopython.com'
 RELATIVE_URLS = False
+
+SITELOGO = SITEURL + SITELOGO
+FAVICON = SITEURL + FAVICON
 
 # FEED_ALL_ATOM = 'feeds/all.atom.xml'
 # CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
