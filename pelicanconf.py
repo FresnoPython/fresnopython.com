@@ -9,7 +9,7 @@ SITEURL = 'http://localhost:8000'
 SITESUBTITLE = SITEDESCRIPTION = AUTHOR
 
 PATH = 'content'
-STATIC_PATHS = ['static']
+STATIC_PATHS = ['static', 'CNAME']
 
 PLUGIN_PATHS = ['../pelican-plugins']
 PLUGINS = ['assets']
