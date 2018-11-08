@@ -46,7 +46,7 @@ DEFAULT_PAGINATION = 10
 
 THEME = 'Flex'
 
-SITELOGO = '/static/img/fresnopy-logo-dark.svg'
+SITELOGO = '/static/img/fresnopy-logo-dark.png'
 
 BROWSER_COLOR = '#3A6687'
 
