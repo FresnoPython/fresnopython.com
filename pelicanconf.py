@@ -42,6 +42,8 @@ SOCIAL = (
     ('slack', 'http://slack.rootaccess.space'),
 )
 
+TWITTER_USERNAME = '@FresnoPython'
+
 DEFAULT_PAGINATION = 10
 
 THEME = 'Flex'
@@ -53,6 +55,8 @@ BROWSER_COLOR = '#3A6687'
 CUSTOM_CSS = 'static/css/custom.css'
 
 FAVICON = '/static/img/favicon.ico'
+
+OPENGRAPH_IMAGE = '/static/img/fresnopy-logo.png'
 
 DISPLAY_PAGES_ON_MENU = False
 MAIN_MENU = False

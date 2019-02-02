@@ -67,7 +67,7 @@ See also: [The Hitchhiker's Guide to Python: Scientific Applications](https://do
 * [RaspberryPi](https://www.raspberrypi.org/) is a very small single-board computer. The RaspberryPi runs Linux, and works very well with Python.
 * [BBC micro:bit](https://microbit.org/) is a microcontroller made for education that is loaded with features and runs a version of Python called MicroPython. The [micro:bit Python editor](https://python.microbit.org/v/1.1) makes it easy to flash code onto the board.
 * [MicroPython](https://micropython.org/) is a lean, efficient version of Python that is made to run on microcontrollers.
-* [CircuitPython](https://micropython.org/) is [Adafruit](https://adafruit.com/)'s own version of MicroPython. They've added new features and ship CircuitPython on several of their own boards.
+* [CircuitPython](https://learn.adafruit.com/welcome-to-circuitpython/what-is-circuitpython) is [Adafruit](https://adafruit.com/)'s own version of MicroPython. They've added new features and ship CircuitPython on several of their own boards.
 
 
 ### Who uses Python?
