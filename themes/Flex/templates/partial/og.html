@@ -1,0 +1,17 @@
+{% if OG_LOCALE %}
+  {% set default_locale = OG_LOCALE %}
+{% else %}
+  {% set default_locale = 'en_US' %}
+{% endif %}
+<meta name="twitter:site" content="{{ TWITTER_USERNAME }}" />
+<meta property="og:site_name" content="{{ SITENAME }}"/>
+<meta property="og:type" content="blog"/>
+<meta property="og:title" content="{{ SITENAME }}{{ title }}"/>
+<meta property="og:description" content="{{ SITEDESCRIPTION }}"/>
+<meta property="og:locale" content="{{ default_locale }}"/>
+<meta property="og:url" content="{{ SITEURL }}"/>
+{% if OPENGRAPH_IMAGE %}
+<meta property="og:image" content="{{ OPENGRAPH_IMAGE }}">
+{% elif SITELOGO %}
+<meta property="og:image" content="{{ SITELOGO }}">
+{% endif %}

@@ -27,7 +27,7 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 MENUITEMS = LINKS = (
-    ('Meetings', 'https://meetup.com/FresnoPython'),
+    ('Meetup', 'https://meetup.com/FresnoPython'),
     ('What is Python?', '/pages/python.html'),
     ('Resources', '/pages/resources.html'),
     ('Code of Conduct', '/pages/code-of-conduct.html'),
@@ -37,16 +37,15 @@ MENUITEMS = LINKS = (
 SOCIAL = (
     ('meetup', 'https://meetup.com/FresnoPython'),
     ('twitter', 'https://twitter.com/FresnoPython'),
-    ('facebook', 'https://www.facebook.com/groups/fresno.py'),
     ('github', 'https://github.com/FresnoPython'),
-    ('slack', 'http://slack.rootaccess.space'),
+    ('slack', 'https://rootaccess.space/slack/'),
 )
 
 TWITTER_USERNAME = '@FresnoPython'
 
 DEFAULT_PAGINATION = 10
 
-THEME = 'Flex'
+THEME = './themes/Flex'
 
 SITELOGO = '/static/img/fresnopy-logo-dark.png'
 
@@ -61,4 +60,4 @@ OPENGRAPH_IMAGE = '/static/img/fresnopy-logo.png'
 DISPLAY_PAGES_ON_MENU = False
 MAIN_MENU = False
 
-COPYRIGHT_YEAR = 2018
+COPYRIGHT_YEAR = 2019
