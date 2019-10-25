@@ -80,6 +80,7 @@ See also: [The Hitchhiker's Guide to Python: Scientific Applications](https://do
 * [Ordrslip](https://ordrslip.com/)
 * [Shift3 Technologies](http://shift3tech.com)
 * [Bixly](https://bixly.com/)
+* [Integrity First Technology Services](https://www.integrityfirsttechnology.com/)
 
 ### BIG companies using Python
 
