@@ -75,12 +75,13 @@ See also: [The Hitchhiker's Guide to Python: Scientific Applications](https://do
 
 #### Local companies/organizations
 
-* [Root Access Hackerspace](https://rootaccess.space/)
 * [59DaysOfCode](https://59daysofcode.org/)
-* [Ordrslip](https://ordrslip.com/)
-* [Shift3 Technologies](http://shift3tech.com)
 * [Bixly](https://bixly.com/)
 * [Integrity First Technology Services](https://www.integrityfirsttechnology.com/)
+* [Ordrslip](https://ordrslip.com/)
+* [Root Access Hackerspace](https://rootaccess.space/)
+* [Shift3 Technologies](http://shift3tech.com)
+
 
 ### BIG companies using Python
 
