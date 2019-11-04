@@ -82,6 +82,7 @@ See also: [The Hitchhiker's Guide to Python: Scientific Applications](https://do
 * [Bixly](https://bixly.com/)
 * [Bolted](https://bolted.io/)
 * [FocusVision](https://www.focusvision.com/)
+* [Integrity First Technology Services](https://www.integrityfirsttechnology.com/)
 * [Ordrslip](https://ordrslip.com/)
 * [Root Access Hackerspace](https://rootaccess.space/)
 * [Sanwa Labs](https://sanwalabs.com/)
