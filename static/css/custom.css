@@ -46,12 +46,22 @@ main article ul {
 */
 
 ul.social a.sc-meetup {
-    background-color: #F34563;
+    background-color: #F64060;
 }
 
-ul.social a.sc-slack {
-    background-color: #7BD2B5;
+ul.social a.sc-twitter {
+    background-color: #1DA1F2;
 }
+
+ul.social a.sc-github {
+    background-color: #24292f;
+}
+
+ul.social a.sc-discord {
+    background-color: #5865F2;
+}
+
+
 
 ul.sponsors {
     list-style-type: none;
