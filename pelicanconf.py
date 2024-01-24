@@ -11,8 +11,8 @@ SITESUBTITLE = SITEDESCRIPTION = AUTHOR
 PATH = 'content'
 STATIC_PATHS = ['static', 'CNAME']
 
-PLUGIN_PATHS = ['../pelican-plugins']
-PLUGINS = ['assets']
+# PLUGIN_PATHS = ['../pelican-plugins']
+PLUGINS = ['webassets']
 
 TIMEZONE = 'America/Los_Angeles'
 
@@ -38,14 +38,14 @@ SOCIAL = (
     ('meetup', 'https://meetup.com/FresnoPython'),
     ('twitter', 'https://twitter.com/FresnoPython'),
     ('github', 'https://github.com/FresnoPython'),
-    ('slack', 'https://rootaccess.space/slack/'),
+    ('discord', 'https://rootaccess.org/discord/'),
 )
 
 TWITTER_USERNAME = '@FresnoPython'
 
 DEFAULT_PAGINATION = 10
 
-THEME = './themes/Flex'
+THEME = 'Flex'
 
 SITELOGO = '/static/img/fresnopy-logo-dark.png'
 
@@ -60,4 +60,4 @@ OPENGRAPH_IMAGE = '/static/img/fresnopy-logo.png'
 DISPLAY_PAGES_ON_MENU = False
 MAIN_MENU = False
 
-COPYRIGHT_YEAR = 2019
+COPYRIGHT_YEAR = 2024

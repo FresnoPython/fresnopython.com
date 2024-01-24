@@ -1,5 +1,5 @@
 cssmin==0.2.0
-ghp-import==0.5.5
-Markdown==3.0.1
-pelican==3.7.1
-webassets==0.12.1
+ghp-import==2.1.0
+Markdown==3.5.2
+pelican==4.9.1
+pelican-webassets==2.0.0
